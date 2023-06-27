@@ -26,4 +26,9 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 
+### My GitHub stats:
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=elveebolt&hide_border=true" alt="My github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elveebolt&layout=donut&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+
+
 
